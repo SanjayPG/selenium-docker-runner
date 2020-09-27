@@ -26,5 +26,5 @@ services:
             - BROWSER=chrome
             - HUB_HOST=hub
             - MODULE=search-module.xml
-        volumes: 
-            - ./search-result:/usr/share/udemy/test-output
+#         volumes: 
+#             - ./search-result:/usr/share/udemy/test-output
